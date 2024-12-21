@@ -17,7 +17,7 @@ const Navbar = () => {
             <a href="#projects">أهداف الجمعية</a>
           </li>
           <li>
-            <a href="#faq">FAQ</a>
+            <a href="#team">أعضاء الجمعية</a>
           </li>
           <li>
             <a>Contacter nous </a>

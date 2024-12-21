@@ -2,7 +2,6 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Projects from "./components/Projects";
 import Who from "./components/Who";
-
 import Footer from "./components/Footer";
 import ContactUs from "./components/ContactUs";
 import Team from "./components/Team";
@@ -15,7 +14,6 @@ const App = () => {
       <Hero />
       <Who />
       <Projects projects={projects} />
-
       <Team />
       <ContactUs />
       <Footer />
