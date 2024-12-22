@@ -2,9 +2,6 @@
 const Who = () => {
   return (
     <section className="p-28 flex flex-col items-center" id="who">
-      <h1 className="text-5xl text-center font-bold mb-5 text-purple bg-white p-5 rounded-xl w-1/2">
-        La Troupe AL FANE AL ASSIL
-      </h1>
       <h2 className="text-4xl text-center font-bold mb-28">Qui Sommes-Nous?</h2>
       <p className=" text-center text-3xl font-thin p-15">
         Association Culturelle Qui S'intéresse À L'art Dramatique, Au Théâtre, À

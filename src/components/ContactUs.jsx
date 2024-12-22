@@ -5,7 +5,7 @@ const ContactUs = () => {
       id="contact"
     >
       <h1 className="text-5xl">Contacter Nous</h1>
-      <a href="mailto:contact@text.com">
+      <a href="mailto:troupe.alfan.assil@gmail.com">
         <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg bg-green text-white hover:text-white">
           Envoyer un Mail
         </button>
