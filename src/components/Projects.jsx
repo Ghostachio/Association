@@ -7,8 +7,10 @@ const Projects = ({ projects }) => {
       className="w-screen flex justify-center flex-col items-center p-12"
       id="projects"
     >
-      <h1 className="text-4xl p-6 font-extrabold ">أهداف الجمعية</h1>
-      <div className="flex flex-wrap gap-5 justify-center pr-12 pl-12 ml-28 mr-28">
+      <h1 className="text-4xl p-6 font-extrabold bg-white text-purple rounded-xl">
+        Les Objectifs De La Troupe
+      </h1>
+      <div className="flex flex-wrap gap-10 justify-center pr-12 pl-12 ml-28 mr-28 mt-10">
         {projects.map((project, i) => (
           <Project key={i} data={project} index={i} />
         ))}

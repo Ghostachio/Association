@@ -1,42 +1,38 @@
+/* eslint-disable react/no-unescaped-entities */
 const Who = () => {
   return (
-    <section className="p-28" id="who">
-      <h1 className="text-5xl text-center font-bold mb-5">
-        فرقة محترف الفن الأصيل للسينما والمسرح
+    <section className="p-28 flex flex-col items-center" id="who">
+      <h1 className="text-5xl text-center font-bold mb-5 text-purple bg-white p-5 rounded-xl w-1/2">
+        La Troupe AL FANE AL ASSIL
       </h1>
-      <h2 className="text-4xl text-center font-bold mb-28">من نحن ؟</h2>
+      <h2 className="text-4xl text-center font-bold mb-28">Qui Sommes-Nous?</h2>
       <p className=" text-center text-3xl font-thin p-15">
-        جمعية ثقافية تهتم بالدراما والمسرح والتدريب والفنون البصرية والتراث،
-        وتعمل على تنمية وتطوير الحياة الثقافية من خلال برامج ونشاطات تستهدف
-        تنمية مواهب الشباب والأطفال. الرؤية ثقافة وطنية إنسانية، وأبداع درامي
-        يحترم التعددية والديمقراطية والمساواة، منفتح على ثقافات العالم والمدارس
-        الفنية، ويمكن الشباب والأطفال من اكتشاف مواهبهم والتعبير عن انفسهم
-        والتواصل مع العالم. أهداف الجمعية إقامة جسور التعاون بين الجمعية ومختلف
-        الفرق الفنية والمسرحية في الوطن والخارج. المساهمة في تطوير الحركة
-        الثقافية والفنية والتراث. تطوير وتنمية مواهب الشباب والأطفال. إنتاج
-        أعمال فنية ودرامية مختلفة. نشأة الجمعية تأسست فرقة محترف الفن الأصيل
-        للسينما و المسرح في مدينة الدارالبيضاء /المغرب عام 2006 ،من طرف الفنان
-        سعيد مزوار وكان في عضويتها عدد كبير من الفنانين المسرحيين. وأنتجت
-        الفرقة الكثير من الأعمال المسرحية، وكانت تتجول في عروضها في جميع المدن
-        المغربية. واستضافت فرق مسرحية عربية وأجنبية، ونظمت عشرات الدورات
-        التدريبية والندوات، كما أصدرت مجلة متخصصة في المسرح والدراما.
+        Association Culturelle Qui S'intéresse À L'art Dramatique, Au Théâtre, À
+        La Formation, Aux Arts Visuels Et Au Patrimoine Et Qui Œuvre Au
+        Développement De La Vie Culturelle À Travers Des Programmes Et Des
+        Activités Visant À Développer Les Talents Des Jeunes Et Des Enfants.
       </p>
-      <h2 className="text-4xl text-center font-bold mb-28 mt-20"> الرؤية</h2>
-      <p className=" text-center text-3xl font-thin pl-20 pr-20">
-        ثقافة وطنية إنسانية، وأبداع درامي يحترم التعددية والديمقراطية والمساواة،
-        منفتح على ثقافات العالم والمدارس الفنية، ويمكن الشباب والأطفال من اكتشاف
-        مواهبهم والتعبير عن انفسهم والتواصل مع العالم.
-      </p>
-      <h2 className="text-4xl text-center font-extrabold mb-28 mt-20">
-        نشأة الجمعية
+      <h2 className="text-4xl text-center font-bold mb-28 mt-20 text-purple bg-white p-5 rounded-xl w-1/2">
+        Notre Vision
       </h2>
       <p className=" text-center text-3xl font-thin pl-20 pr-20">
-        تأسست فرقة محترف الفن الأصيل للسينما و المسرح في مدينة الدارالبيضاء
-        /المغرب عام 2006 ،من طرف الفنان سعيد مزوار وكان في عضويتها عدد كبير من
-        الفنانين المسرحيين. وأنتجت الفرقة الكثير من الأعمال المسرحية، وكانت
-        تتجول في عروضها في جميع المدن المغربية. واستضافت فرق مسرحية عربية
-        وأجنبية، ونظمت عشرات الدورات التدريبية والندوات، كما أصدرت مجلة متخصصة
-        في المسرح والدراما.
+        Une Culture Nationale Humaine Et Une Créativité Dramatique Qui Respecte
+        Le Pluralisme, La Démocratie Et L'égalité, Est Ouverte Aux Cultures Du
+        Monde Et Aux Écoles Artistiques Et Permet Aux Jeunes Et Aux Enfants De
+        Découvrir Leurs Talents, De S'exprimer Et De Communiquer Avec Le Monde.
+      </p>
+      <h2 className="text-4xl text-center font-extrabold mb-28 mt-20 text-purple bg-white p-5 rounded-xl w-1/2">
+        La Création De L'association
+      </h2>
+      <p className=" text-center text-3xl font-thin pl-20 pr-20">
+        La Troupe Artistique Professionnelle Du Cinéma Et Du Théâtre A Été
+        Fondée Dans La Ville De Casablanca, Au Maroc, En 2006, Par L'artiste
+        Said Mezouar, Et Compte Parmi Ses Membres Un Grand Nombre D'artistes De
+        Théâtre. La Troupe A Produit De Nombreuses Œuvres Théâtrales Et A
+        Effectué Des Tournées Dans Toutes Les Villes Marocaines. Elle A
+        Accueilli Des Troupes De Théâtre Arabes Et Étrangères, Organisé Des
+        Dizaines De Formations Et De Séminaires Et Publié Une Revue Spécialisée
+        Dans Le Théâtre Et L'art Dramatique.
       </p>
     </section>
   );

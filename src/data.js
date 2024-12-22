@@ -1,29 +1,29 @@
 const staff = [
   {
-    name: "سعيد مزوار",
-    job: "رئيس لفرقة محترف الفن الأصيل للسينما و المسرح",
+    name: "Said Mezouar",
+    job: "Fondateur Et Président De La Troupe & Directeur Du Festival",
     description:
-      "يعتبر الفنان سعيد مزوار هو مؤسس لفرقة محترف الفن الأصيل للسينما والمسرح، فهو ممثل مسرحي وسينيمائي وتلفزي، حيث شارك في عديد من المسرحيات نذكر منها: مسرحية دار الصابون، رداد وعويشة، حب المزاح، المجدوبية، تحت الصفر...، حيث نال العديد من الجوائز في عدة مهرجانات وطنية ودولية",
+      "Il Est Un Acteur De Théâtre, Cinéma , Télévision , Auteur Et Metteur En Scène, Il A Réalisé Plus De 10 Pièces Théâtrales , Ainsi Qu`il A Interprété Plus De 20 Rôles Dans Des Pièces De Théâtre.",
   },
   {
-    name: "أيوب بنهباش ",
-    job: "مدير فني",
+    name: "Ayoub Benhabbach",
+    job: "Directeur Artistique & Administratif",
     description:
-      "الفنان أيوب بنهباش حاصل على ماجستير في اللوجستيك كلية العلوم القانونية والاقتصادية والاجتماعية الدار البيضاء وإجازة في الاقتصاد والتسيير كلية العلوم القانونية والاقتصادية والاجتماعية الدار البيضاء",
+      "Master En Supply Chain Management - Licence En Économie Et Gestion, Cadre Bancaire, Directeur Artistique Et Administratif De 3 Troupes De Théâtre, Acteur Et Metteur En Scène.",
   },
   {
-    name: "ياسمينة الشريبي",
-    job: "رئيس لفرقة محترف الفن الأصيل للسينما و مصممة جرافيك ومصورة فوتوغرافية ومصورة فيديو في الدار البيضاء وتتدرب في التسويق الرقمي",
+    name: "Yasmina Chraibi",
+    job: "Directrice De Communication & PROD Et Des Médias ",
     description:
-      "رئيسة جمعية IPHOTOGRAPHER ، و هو مفهوم مهمته إبراز التصوير الفوتوغرافي والمصور و توعية الجمهور بفهم الصورة وفك تشفيرها, تعريف الهواة بالتصوير, تسليط الضوء على قيم ومعنى التصوير ,السماح للجمهور بالتقاط صورة صحيحة تعكس رؤيتهم الفنية",
+      "Présidente De L`association <<IPHOTOGRAPHER>>, Entrepreneur, Graphique Designer, Photographe, Vidéaste et  Elle Est Aussi Sur L'évènementiel Et L'organisation , Plus Que 48 Évènements",
   },
 ];
 
 export const projects = [
-  "إقامة جسور التعاون بين الجمعية ومختلف الفرق الفنية والمسرحية في الوطن والخارج",
-  "المساهمة في تطوير الحركة الثقافية والفنية والتراث",
-  "تطوير وتنمية مواهب الشباب والأطفال",
-  "إنتاج أعمال فنية ودرامية مختلفة",
+  "Établir Des Ponts De Coopération Entre L'association Et Divers Groupes Artistiques Et Théâtraux En Allemagne Et À L'étranger.",
+  "Contribuer Au Développement Du Mouvement Culturel, Artistique Et Patrimonial.",
+  "Développer Et Développer Les Talents Des Jeunes Et Des Enfants.",
+  "Réalisation De Diverses Œuvres Artistiques Et Dramatiques.",
 ];
 
 export default staff;

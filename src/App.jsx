@@ -9,7 +9,7 @@ import { projects } from "./data";
 
 const App = () => {
   return (
-    <main className="flex flex-col items-center">
+    <main className="flex flex-col items-center text-white">
       <Navbar />
       <Hero />
       <Who />
