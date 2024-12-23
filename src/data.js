@@ -15,7 +15,7 @@ const staff = [
     name: "Yasmina Chraibi",
     job: "Directrice De Communication & PROD Et Des Médias ",
     description:
-      "Présidente De L`association <<IPHOTOGRAPHER>>, Entrepreneur, Graphique Designer, Photographe, Vidéaste et  Elle Est Aussi Sur L'évènementiel Et L'organisation , Plus Que 48 Évènements",
+      "Présidente De L`association <<IPHOTOGRAPHER>>, Entrepreneur, Graphique Designer, Photographe, Vidéaste et  Elle Est Aussi Sur L'évènementiel Et L'organisation",
   },
 ];
 

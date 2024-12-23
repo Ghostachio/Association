@@ -4,8 +4,7 @@ const Project = ({ data, index }) => {
     <div className="card  w-96 shadow-xl bg-green">
       <div className="card-body ">
         <h2 className="card-title self-center text-white">
-          {" "}
-          Objectif {index + 1}{" "}
+          Objectif {index + 1}
         </h2>
         <p className="text-center">{data}</p>
       </div>
